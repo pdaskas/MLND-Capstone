@@ -1,0 +1,9 @@
+--------------------------------------------------------------
+KEPRANGE --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-keprange.txt rinfile= datacol=SAP_FLUX overwrite=False verbose=False logfile=keprange.log
+
+--------------------------------------------------------------
+KEPRANGE --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-keprange.txt rinfile= datacol=SAP_FLUX overwrite=False verbose=False logfile=keprange.log
+
+--------------------------------------------------------------
+KEPRANGE --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-keprange.txt rinfile= datacol=SAP_FLUX overwrite=False verbose=False logfile=keprange.log
+

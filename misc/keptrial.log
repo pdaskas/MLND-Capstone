@@ -1,0 +1,13 @@
+--------------------------------------------------------------
+KEPTRIAL --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=kplr012557548-kepstitch-kepflatten-keptrial.fits datacol=SAP_FLUX errcol=SAP_FLUX_ERR fmin=0.1 fmax=50 nfreq=10 method=ft ntrials=1000 plot=False overwrite=False verbose=False logfile=keptrial.log
+
+--------------------------------------------------------------
+KEPTRIAL --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=kplr012557548-kepstitch-kepflatten-keptrial.fits datacol=SAP_FLUX errcol=SAP_FLUX_ERR fmin=0.1 fmax=50 nfreq=10 method=ft ntrials=10 plot=False overwrite=False verbose=False logfile=keptrial.log
+
+--------------------------------------------------------------
+KEPTRIAL --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=kplr012557548-kepstitch-kepflatten-keptrial.fits datacol=SAP_FLUX errcol=SAP_FLUX_ERR fmin=0.1 fmax=50 nfreq=10 method=ft ntrials=100 plot=False overwrite=False verbose=False logfile=keptrial.log
+
+ERROR -- KEPTRIAL: kplr012557548-kepstitch-kepflatten-keptrial.fits exists. Use --overwrite
+--------------------------------------------------------------
+KEPTRIAL --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=kplr012557548-kepstitch-kepflatten-keptrial.fits datacol=SAP_FLUX errcol=SAP_FLUX_ERR fmin=0.1 fmax=50 nfreq=10 method=ft ntrials=100 plot=False overwrite=True verbose=False logfile=keptrial.log
+

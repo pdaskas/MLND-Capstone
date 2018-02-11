@@ -1,0 +1,590 @@
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo200164267-unofficial-tpf.fits outfile=ktwo200164267-unofficial-tpf-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+ERROR -- KEPIO.READFITSCOL: could not extract SAP_FLUX_ERRdata from ktwo200164267-unofficial-tpf.fits
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012984404-2009166043257_llc.fits outfile=kplr012984404-2009166043257_llc-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010797460-kepstitch.fits outfile=kplr010797460-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010797460-kepstitch.fits outfile=kplr010797460-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-2011271113734_llc.fits outfile=kplr012557548-2011271113734_llc-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-2012004120508_llc.fits outfile=kplr012557548-2012004120508_llc-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-2011271113734_llc.fits outfile=kplr012557548-2011271113734_llc-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-2012004120508_llc.fits outfile=kplr012557548-2012004120508_llc-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-2011271113734_llc.fits outfile=kplr012557548-2011271113734_llc-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-2012004120508_llc.fits outfile=kplr012557548-2012004120508_llc-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-2011271113734_llc.fits outfile=kplr012557548-2011271113734_llc-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-2012004120508_llc.fits outfile=kplr012557548-2012004120508_llc-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=a.fits outfile=a-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=a.fits outfile=a-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=a.fits outfile=a-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=PDCSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=DETSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=b.fits outfile=b-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=PDCSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=DETSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=kplr012557548-kepstitch-kepflatten-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=kplr012557548-kepstitch-kepflatten-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=kplr012557548-kepstitch-kepflatten-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=kplr012557548-kepstitch-kepflatten-kepdraw.png datacol=PDCSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=kplr012557548-kepstitch-kepflatten-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=kplr012557548-kepstitch-kepflatten-kepdraw.png datacol=DETSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=PDCSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+ERROR -- KEPIO.READFITSCOL: could not extract DETSAP_FLUXdata from kplr010748390-kepstitch.fits
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=PDCSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=PDCSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=PDCSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=PDCSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=DETSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=PDCSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=DETSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=PDCSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=DETSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba1.fits outfile=ba1-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=SAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=PDCSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=PDCSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=DETSAP_FLUX_ERR ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=k90-kepstitch.fits outfile=k90-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=k90-kepstitch-kepflatten.fits outfile=k90-kepstitch-kepflatten-kepdraw.png datacol=DETSAP_FLUX ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ba2.fits outfile=ba2-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=k90-kepstitch.fits outfile=k90-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc.fits outfile=ktwo245950175-c12_llc-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=36.0 ysize=12.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=9.0 ysize=3.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=3.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=9.0 ysize=3.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=3.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=9.0 ysize=30.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=3.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=9.0 ysize=20.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=3.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=9.0 ysize=10.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=3.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=9.0 ysize=20.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=3.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=9.0 ysize=24.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=3.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=12.0 ysize=24.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=3.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=12.0 ysize=24.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=3.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=a-11.fits outfile=a-11-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile= outfile=-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=a-12.fits outfile=a-12-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=12.0 ysize=24.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=12.0 ysize=24.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=12.0 ysize=24.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=12.0 ysize=24.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=True ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=12.0 ysize=24.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=True ylabel=e$^-$ s$^{-1}$ plottype=pretty verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=12.0 ysize=48.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=True ylabel=e$^-$ s$^{-1}$ plottype=pretty verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=6.0 ysize=48.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=True ylabel=e$^-$ s$^{-1}$ plottype=pretty verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=24.0 ysize=12.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=True ylabel=e$^-$ s$^{-1}$ plottype=pretty verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=48.0 ysize=12.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=True ylabel=e$^-$ s$^{-1}$ plottype=pretty verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=48.0 ysize=12.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=True ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=48.0 ysize=12.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=True ylabel=e$^-$ s$^{-1}$ plottype=PRETTY verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=48.0 ysize=24.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=True ylabel=e$^-$ s$^{-1}$ plottype=PRETTY verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=ktwo245950175-c12_llc-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=48.0 ysize=24.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=True ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=k90-kepstitch.fits outfile=k90-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=ktwo245950175-c12_llc.fits outfile=ktwo245950175-c12_llc-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-2009131105131_llc.fits outfile=kplr010748390-2009131105131_llc-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=kplr010748390-kepstitch-kepflatten-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr-kepstitch.fits outfile=kplr-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr-kepstitch.fits outfile=kplr-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+
+--------------------------------------------------------------
+KEPDRAW --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepdraw.png datacol=None ploterr=False errcol=SAP_FLUX_ERR quality=False lcolor=#363636 lwidth=1.0 fcolor=#a8a7a7 falpha=0.2 labelsize=20 ticksize=14 xsize=18.0 ysize=6.0 fullrange=False chooserange=False ymin=0 ymax=10000.0 plotgrid=False ylabel=e$^-$ s$^{-1}$ plottype=fast verbose=False logfile=kepdraw.log
+

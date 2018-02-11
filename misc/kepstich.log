@@ -1,0 +1,147 @@
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr012557548-2011271113734_llc.fits', 'kplr012557548-2012004120508_llc.fits'] outfile=kplr012557548-kepstitch.fits overwrite=False verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010797460-2009166043257_llc.fits', 'kplr010797460-2009259160929_llc.fits'] outfile=kplr010797460-kepstitch.fits overwrite=False verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr012557548-2011271113734_llc.fits', 'kplr012557548-2012004120508_llc.fits'] outfile=kplr012557548-kepstitch.fits overwrite=False verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr012557548-2011271113734_llc.fits', 'kplr012557548-2012004120508_llc.fits'] outfile=kplr012557548-kepstitch.fits overwrite=False verbose=False logfile=kepstich.log
+
+ERROR -- KEPSTITCH: kplr012557548-kepstitch.fits exists. Use --overwrite
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr012557548-2011271113734_llc.fits', 'kplr012557548-2012004120508_llc.fits'] outfile=kplr012557548-kepstitch.fits overwrite=False verbose=False logfile=kepstich.log
+
+ERROR -- KEPSTITCH: kplr012557548-kepstitch.fits exists. Use --overwrite
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr012557548-2011271113734_llc.fits', 'kplr012557548-2012004120508_llc.fits'] outfile=kplr012557548-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr012557548-2011271113734_llc.fits', 'kplr012557548-2012004120508_llc.fits'] outfile=kplr012557548-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr012557548-2011271113734_llc.fits', 'kplr012557548-2012004120508_llc.fits'] outfile=kplr012557548-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr012557548-2011271113734_llc.fits', 'kplr012557548-2012004120508_llc.fits'] outfile=kplr012557548-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr012557548-2011271113734_llc.fits', 'kplr012557548-2012004120508_llc.fits'] outfile=kplr012557548-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits'] outfile=kplr012557548-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009166043257_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['K90-1.fits', 'K90-3.fits', 'K90-4.fits', 'K90-4.fits', 'K90-5.fits', 'K90-6.fits', 'K90-7.fits', 'K90-9.fits', 'K90-10.fits', 'K90-11.fits', 'K90-13.fits', 'K90-14.fits', 'K90-15.fits', 'K90-17.fits'] outfile=k90-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['K90-short\\K90-1.fits', 'K90-3.fits', 'K90-4.fits', 'K90-4.fits', 'K90-5.fits', 'K90-6.fits', 'K90-7.fits', 'K90-9.fits', 'K90-10.fits', 'K90-11.fits', 'K90-13.fits', 'K90-14.fits', 'K90-15.fits', 'K90-17.fits'] outfile=k90-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['K90-short\\K90-1.fits', 'K90-short\\K90-3.fits', 'K90-short\\K90-4.fits', 'K90-short\\K90-4.fits', 'K90-short\\K90-5.fits', 'K90-short\\K90-6.fits', 'K90-short\\K90-7.fits', 'K90-short\\K90-9.fits', 'K90-short\\K90-10.fits', 'K90-short\\K90-11.fits', 'K90-short\\K90-13.fits', 'K90-short\\K90-14.fits', 'K90-short\\K90-15.fits', 'K90-short\\K90-17.fits'] outfile=k90-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['K90-short\\K90-1.fits', 'K90-short\\K90-3.fits', 'K90-short\\K90-4.fits', 'K90-short\\K90-4.fits', 'K90-short\\K90-5.fits', 'K90-short\\K90-6.fits', 'K90-short\\K90-7.fits', 'K90-short\\K90-9.fits', 'K90-short\\K90-10.fits', 'K90-short\\K90-11.fits', 'K90-short\\K90-13.fits', 'K90-short\\K90-14.fits', 'K90-short\\K90-15.fits', 'K90-short\\K90-17.fits'] outfile=k90-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+ERROR -- KEPIO.OBLITERATE: could not delete kplr010748390-kepstitch.fits
+ERROR -- KEPIO.CLOBBER: could not overwrite kplr010748390-kepstitch.fits
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+ERROR -- KEPIO.OBLITERATE: could not delete kplr010748390-kepstitch.fits
+ERROR -- KEPIO.CLOBBER: could not overwrite kplr010748390-kepstitch.fits
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+ERROR -- KEPIO.OBLITERATE: could not delete kplr010748390-kepstitch.fits
+ERROR -- KEPIO.CLOBBER: could not overwrite kplr010748390-kepstitch.fits
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+ERROR -- KEPIO.OBLITERATE: could not delete kplr010748390-kepstitch.fits
+ERROR -- KEPIO.CLOBBER: could not overwrite kplr010748390-kepstitch.fits
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-2009131105131_llc-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['K90-short\\K90-1.fits', 'K90-short\\K90-3.fits', 'K90-short\\K90-4.fits', 'K90-short\\K90-4.fits', 'K90-short\\K90-5.fits', 'K90-short\\K90-6.fits', 'K90-short\\K90-7.fits', 'K90-short\\K90-9.fits', 'K90-short\\K90-10.fits', 'K90-short\\K90-11.fits', 'K90-short\\K90-13.fits', 'K90-short\\K90-14.fits', 'K90-short\\K90-15.fits', 'K90-short\\K90-17.fits'] outfile=kplr-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['K90-short\\K90-1.fits', 'K90-short\\K90-3.fits', 'K90-short\\K90-4.fits', 'K90-short\\K90-4.fits', 'K90-short\\K90-5.fits', 'K90-short\\K90-6.fits', 'K90-short\\K90-7.fits', 'K90-short\\K90-9.fits', 'K90-short\\K90-10.fits', 'K90-short\\K90-11.fits', 'K90-short\\K90-13.fits', 'K90-short\\K90-14.fits', 'K90-short\\K90-15.fits', 'K90-short\\K90-17.fits'] outfile=kplr-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+ERROR -- KEPIO.OBLITERATE: could not delete kplr-kepstitch.fits
+ERROR -- KEPIO.CLOBBER: could not overwrite kplr-kepstitch.fits
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['K90-short\\K90-1.fits', 'K90-short\\K90-3.fits', 'K90-short\\K90-4.fits', 'K90-short\\K90-4.fits', 'K90-short\\K90-5.fits', 'K90-short\\K90-6.fits', 'K90-short\\K90-7.fits', 'K90-short\\K90-9.fits', 'K90-short\\K90-10.fits', 'K90-short\\K90-11.fits', 'K90-short\\K90-13.fits', 'K90-short\\K90-14.fits', 'K90-short\\K90-15.fits', 'K90-short\\K90-17.fits'] outfile=k90-stitch.fits overwrite=True verbose=False logfile=kepstich.log
+
+--------------------------------------------------------------
+KEPSTITCH --  infiles=['kplr010748390-2009131105131_llc.fits', 'kplr010748390-2009166043257_llc.fits', 'kplr010748390-2009259160929_llc.fits', 'kplr010748390-2009350155506_llc.fits', 'kplr010748390-2010078095331_llc.fits'] outfile=kplr010748390-kepstitch.fits overwrite=True verbose=False logfile=kepstich.log
+

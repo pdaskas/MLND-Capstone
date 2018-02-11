@@ -1,0 +1,75 @@
+--------------------------------------------------------------
+kepperiodogram --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=a.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 9.528122020972354
+Writing output file a.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=a.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 9.528122020972354
+Writing output file a.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=a.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 9.528122020972354
+Writing output file a.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=kplr012557548-kepstitch-kepflatten.fits outfile=a.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 9.528122020972354
+Writing output file a.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=kplr010748390-kepstitch.fits outfile=a-1.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 4.022942241899778
+Writing output file a-1.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=a-1.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 4.022942241899778
+Writing output file a-1.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=a-1.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 4.022942241899778
+Writing output file a-1.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=a-1.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 4.022942241899778
+Writing output file a-1.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=a-1.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 4.022942241899778
+Writing output file a-1.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=a-1.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 6.083384053560559
+Writing output file a-1.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=a-1.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 6.083384053560559
+Writing output file a-1.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=kplr010748390-kepstitch-kepflatten.fits outfile=a-1.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 6.083384053560559
+Writing output file a-1.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=k90-kepstitch-kepflatten.fits outfile=a-1.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 8.01523656776263
+Writing output file a-1.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=a-11.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 10.0
+Writing output file a-11.fits...
+--------------------------------------------------------------
+kepperiodogram --  infile=ktwo245950175-c12_llc-kepflatten.fits outfile=a-11.fits datacol=PDCSAP_FLUX pmin=0.1 pmax=10.0 nfreq=2000 plot=True noninteractive=False overwrite=True verbose=False logfile=kepperiodogram.log
+
+kepperiodogram - best period found: 10.0
+Writing output file a-11.fits...

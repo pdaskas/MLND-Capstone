@@ -1,0 +1,95 @@
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010797460-kepstitch.fits outfile=kplr010797460-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3 stepsize=1 winsize=5.0 npoly=2 niter=10 ranges=0,0 plot=True overwrite=False verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3 stepsize=1 winsize=5.0 npoly=2 niter=10 ranges=0,0 plot=True overwrite=False verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3 stepsize=1 winsize=5.0 npoly=2 niter=10 ranges=0,0 plot=True overwrite=False verbose=False logfile=kepflatten.log
+
+ERROR -- KEPFLATTEN: kplr012557548-kepstitch-kepflatten.fits exists. Use overwrite=True
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3 stepsize=1 winsize=5.0 npoly=2 niter=10 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+ERROR -- KEPIO.OBLITERATE: could not delete kplr012557548-kepstitch-kepflatten.fits
+ERROR -- KEPIO.CLOBBER: could not overwrite kplr012557548-kepstitch-kepflatten.fits
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3 stepsize=1 winsize=5.0 npoly=2 niter=10 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+ERROR -- KEPIO.OBLITERATE: could not delete kplr012557548-kepstitch-kepflatten.fits
+ERROR -- KEPIO.CLOBBER: could not overwrite kplr012557548-kepstitch-kepflatten.fits
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3 stepsize=1 winsize=5.0 npoly=2 niter=10 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3 stepsize=1 winsize=5.0 npoly=2 niter=10 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr012557548-kepstitch.fits outfile=kplr012557548-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=k90-kepstitch.fits outfile=k90-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=ktwo245950175-c12_llc.fits outfile=ktwo245950175-c12_llc-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=False verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=ktwo245950175-c12_llc.fits outfile=ktwo245950175-c12_llc-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=False verbose=False logfile=kepflatten.log
+
+ERROR -- KEPFLATTEN: ktwo245950175-c12_llc-kepflatten.fits exists. Use overwrite=True
+--------------------------------------------------------------
+KEPFLATTEN --  infile=ktwo245950175-c12_llc.fits outfile=ktwo245950175-c12_llc-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+ERROR -- KEPIO.OBLITERATE: could not delete ktwo245950175-c12_llc-kepflatten.fits
+ERROR -- KEPIO.CLOBBER: could not overwrite ktwo245950175-c12_llc-kepflatten.fits
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-2009131105131_llc.fits outfile=kplr010748390-2009131105131_llc-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr-kepstitch.fits outfile=kplr-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr-kepstitch.fits outfile=kplr-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr010748390-kepstitch.fits outfile=kplr010748390-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=True overwrite=True verbose=False logfile=kepflatten.log
+

@@ -1,0 +1,39 @@
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr000757450-kepstitch.fits outfile=D:\pdaskas\udacity\machine-learning\projects\capstone\output_stitch_flatten_test\kplr000757450-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr000757450-kepstitch.fits outfile=D:\pdaskas\udacity\machine-learning\projects\capstone\output_stitch_flatten_test\kplr000757450-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr001026957-kepstitch.fits outfile=D:\pdaskas\udacity\machine-learning\projects\capstone\output_stitch_flatten_test\kplr001026957-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr001161345-kepstitch.fits outfile=D:\pdaskas\udacity\machine-learning\projects\capstone\output_stitch_flatten_test\kplr001161345-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr000757450-kepstitch.fits outfile=D:\pdaskas\udacity\machine-learning\projects\capstone\output_stitch_flatten_test\kplr000757450-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr001026957-kepstitch.fits outfile=D:\pdaskas\udacity\machine-learning\projects\capstone\output_stitch_flatten_test\kplr001026957-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr001161345-kepstitch.fits outfile=D:\pdaskas\udacity\machine-learning\projects\capstone\output_stitch_flatten_test\kplr001161345-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr000757450-kepstitch.fits outfile=D:\pdaskas\udacity\machine-learning\projects\capstone\output_stitch_flatten_test\kplr000757450-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr001026957-kepstitch.fits outfile=D:\pdaskas\udacity\machine-learning\projects\capstone\output_stitch_flatten_test\kplr001026957-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr001161345-kepstitch.fits outfile=D:\pdaskas\udacity\machine-learning\projects\capstone\output_stitch_flatten_test\kplr001161345-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr000757450-kepstitch.fits outfile=D:\pdaskas\udacity\machine-learning\projects\capstone\output_stitch_flatten_test\kplr000757450-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr001026957-kepstitch.fits outfile=D:\pdaskas\udacity\machine-learning\projects\capstone\output_stitch_flatten_test\kplr001026957-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
+--------------------------------------------------------------
+KEPFLATTEN --  infile=kplr001161345-kepstitch.fits outfile=D:\pdaskas\udacity\machine-learning\projects\capstone\output_stitch_flatten_test\kplr001161345-kepstitch-kepflatten.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR nsig=3.0 stepsize=0.5 winsize=5.0 npoly=3 niter=1 ranges=0,0 plot=False overwrite=True verbose=False logfile=kepflatten.log
+
